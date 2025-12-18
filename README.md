@@ -1,23 +1,27 @@
-Desafio Feed
+# 📸 Desafio Feed
 
-![Preview do projeto](./assets/preview.png)
+<p align="center">
+  <img src="./assets/preview.png" alt="Preview do projeto" width="300">
+</p>
 
-Projeto desenvolvido a partir de um desafio proposto pelo curso Sujeito Programador, com o objetivo de praticar HTML e CSS.
+Projeto desenvolvido a partir de um **desafio proposto pelo curso Sujeito Programador**, com o objetivo de praticar **HTML e CSS**.
 
-Tecnologias utilizadas
+---
 
-HTML5
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
 
-CSS3
+---
 
-Sobre o projeto
+## 📄 Sobre o projeto
+O desafio consiste na criação de um **feed simples**, simulando posts de uma rede social, contendo:
+- Foto de perfil
+- Nome do usuário
+- Imagem do post
+- Links de ação (Curtir e Repostar)
 
-O desafio consiste na criação de um feed simples, simulando posts de uma rede social, com:
+---
 
-Foto de perfil
+📌 *Projeto criado apenas para fins de estudo.*
 
-Nome do usuário
-
-Imagem do post
-
-Links de ação (Curtir e Repostar)
